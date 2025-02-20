@@ -1,0 +1,19 @@
+body {
+    background: #fbfdff;
+    text-align: center;
+    font-family: "Open Sans", serif;
+}
+
+img {}
+
+.title {
+    font-weight: 800;
+    font-size: 95px;
+    color: #6b68ec;
+}
+
+.text {
+    font-weight: 600;
+    font-size: 22px;
+    color: #484855;
+}
